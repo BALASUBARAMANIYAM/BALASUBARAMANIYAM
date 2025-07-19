@@ -1,81 +1,112 @@
-# Hi there 👋  
-I'm **Balasubaramaniyam T S** ⚡  
+<h1 align="center">Hi there 👋, I'm Balasubaramaniyam TS</h1>
+<h3 align="center">Ambitious programmer from Chennai, India 🇮🇳</h3>
 
-💡 A passionate Computer Science Engineering student from Chennai, with a knack for solving problems and building impactful tech solutions.
-
-- 🔭 I’m currently working on: Smart Email Replier & Stock Market Trend Analysis  
-- 💬 Ask me about: C++, Java, ReactJS, or Spring Boot  
-- 🚀 Exploring Machine Learning, Deep Learning, and Technical Analysis  
-- 🎯 Fun Fact: Ctrl + C & Ctrl + Z are my real-life superpowers  
-- 🧠 Learning to build efficient, scalable full-stack apps  
-- 📖 Occasional trader, chess enthusiast, and anime lover
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BALASUBARAMANIYAM&label=Profile%20views&color=0e75b6&style=flat" alt="BALASUBARAMANIYAM" />
+</p>
 
 ---
 
-## 📬 Connect with Me
+### 💫 About Me
 
-📧 **Email**: [tsbalasubaramaniyam@gmail.com](mailto:tsbalasubaramaniyam@gmail.com)  
-🌐 **Portfolio**: [balasubaramaniyam.github.io/BALA_PORTFOLIO](https://balasubaramaniyam.github.io/BALA_PORTFOLIO/)  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bala17/)  
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/BALASUBARAMANIYAM)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/Balasubaramaniyam/)  
-
----
-
-## 🧑‍💻 Technologies & Tools
-
-### 🚀 Languages & Frameworks  
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white)  
-
-### 🛢️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)  
-
-### 🔧 Tools & Platforms  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)  
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?logo=jira&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
+- 🎓 I'm a **Computer Science Engineering** student at **Madras Institute of Technology**, Anna University  
+- 🧠 Passionate about building useful apps, solving problems, and learning new tech  
+- 🛠️ Strong foundation in **C++, Java, OOPS, OS, DS, CN, ML**
+- ⚡ Fun fact: Ctrl + C, Ctrl + V & Ctrl + Z are better than Batman 😄  
+- 💬 I love creating, debugging, and reimagining digital workflows  
+- 📈 I trade, play chess, and binge anime in my downtime
 
 ---
 
-## 🏆 Achievements
+### 📱 Connect with Me
 
-- 🥇 Ranked **1866** in **CodeKaze 2024** by Coding Ninjas  
-- 👨‍💻 Organized **Code Alchemy** event at **Prayatna 25**, MIT  
-- 📜 Completed **SQL Certification** via HackerRank  
-- 📑 Certified in **Prompt Engineering** under Naan Mudhalvan initiative  
+📧 Email: [tsbalasubaramaniyam@gmail.com](mailto:tsbalasubaramaniyam@gmail.com)  
+📞 Phone: +91 9444564468  
 
----
-
-## 💻 Featured Projects
-
-### 🔹 [Smart Email Replier](https://github.com/BALASUBARAMANIYAM/Smart-Email-Replier)
-AI-integrated Chrome extension for Gmail that suggests tone-adaptive replies  
-**Tech**: Spring Boot, JavaScript, Gemini API, HTML, CSS
-
-### 🔹 [Stock Market Trend Analysis](https://github.com/BALASUBARAMANIYAM/STOCK-MARKET-TREND-ANALYSIS)  
-Deep learning model using LSTM + TCN for price prediction using technical indicators  
-**Tech**: Python, Keras, Pandas, Matplotlib, ReactJS
-
-### 🔹 [DealsHub – Smart Deal Aggregator](https://github.com/BALASUBARAMANIYAM/Dealshub)  
-Real-time deal discovery from Amazon with user notifications  
-**Tech**: ReactJS, Spring Boot, RapidAPI, MySQL
+<p align="left">
+  <a href="https://www.linkedin.com/in/bala17/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/BALASUBARAMANIYAM" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Balasubaramaniyam/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://balasubaramaniyam.github.io/BALA_PORTFOLIO/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1f1f1f.svg?style=for-the-badge&logo=Firefox&logoColor=white"/></a>
+</p>
 
 ---
 
-## 📈 GitHub Stats
+### 🛠️ Languages and Frameworks
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BALASUBARAMANIYAM&theme=dark&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BALASUBARAMANIYAM&layout=compact&theme=dark&hide_border=true)
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
+</p>
 
 ---
 
-_“Striving to build real-world impact through technology.”_
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+---
+
+### 🔧 Tools and Engines
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JIRA-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+### 🧠 Certifications
+
+- ✅ [SQL Certification – HackerRank](https://www.hackerrank.com/certificates/95467ecd2f70)  
+- ✅ [Prompt Engineering – Naan Mudhalvan](https://drive.google.com/file/d/150BGoDUPJZe8yXwkMjgFxe4SbT_PKxqu/view?usp=sharing)
+
+---
+
+### 🚀 Projects
+
+#### 🔹 [Smart Email Replier](https://github.com/BALASUBARAMANIYAM/Smart-Email-Replier)
+> Chrome extension that suggests AI-generated tone-based replies inside Gmail.  
+> **Tech Used:** Spring Boot, JS, Gemini API, HTML, CSS  
+
+#### 🔹 [Stock Market Trend Analysis](https://github.com/BALASUBARAMANIYAM/STOCK-MARKET-TREND-ANALYSIS)
+> Built LSTM + TCN hybrid model using technical indicators for better stock predictions  
+> **Tech Used:** Python, Keras, ReactJS, Pandas  
+
+#### 🔹 [DealsHub](https://github.com/BALASUBARAMANIYAM/Dealshub)
+> Aggregator to find the best Amazon deals via RapidAPI and alert users  
+> **Tech Used:** ReactJS, Spring Boot, MySQL  
+
+---
+
+### 🏆 Achievements
+
+- 🏅 **1866 Global Rank** in **CodeKaze 2024** (by Coding Ninjas)  
+- 🧑‍💻 Event Organizer for **Code Alchemy**, Prayatna 25  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BALASUBARAMANIYAM&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BALASUBARAMANIYAM&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BALASUBARAMANIYAM&theme=tokyonight"/>
+</p>
+
+---
+
+_“Consistency over perfection — one line of code at a time.”_
