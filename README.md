@@ -20,8 +20,7 @@
 
 ### 📱 Connect with Me
 
-📧 Email: [tsbalasubaramaniyam@gmail.com](mailto:tsbalasubaramaniyam@gmail.com)  
-📞 Phone: +91 9444564468  
+📧 Email: [tsbalasubaramaniyam@gmail.com](mailto:tsbalasubaramaniyam@gmail.com)   
 
 <p align="left">
   <a href="https://www.linkedin.com/in/bala17/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
