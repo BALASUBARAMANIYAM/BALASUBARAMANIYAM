@@ -97,22 +97,27 @@
 ---
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BALASUBARAMANIYAM&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BALASUBARAMANIYAM&theme=tokyonight"/>
-</p>
-
 ---
 
-### 🧾 GitHub Contributions Summary
+### 📊 GitHub Progress
 
-- 🧩 Total PRs: `0`
-- 🐛 Total Issues: `0`
-- 🌍 Contributed to (last year): `0` repositories
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BALASUBARAMANIYAM&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=BALASUBARAMANIYAM&theme=tokyonight&hide_border=true" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=BALASUBARAMANIYAM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+      </td>
+    </tr>
+  </table>
+</div>
 
----
 
 _“Consistency over perfection — one line of code at a time.”_
