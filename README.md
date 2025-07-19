@@ -96,16 +96,22 @@
 
 ---
 
+---
+
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BALASUBARAMANIYAM&layout=compact&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api?username=BALASUBARAMANIYAM&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BALASUBARAMANIYAM&theme=tokyonight"/>
 </p>
+
+---
+
+### 🧾 GitHub Contributions Summary
+
+- 🧩 Total PRs: `0`
+- 🐛 Total Issues: `0`
+- 🌍 Contributed to (last year): `0` repositories
 
 ---
 
